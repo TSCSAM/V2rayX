@@ -1,5 +1,13 @@
 ﻿﻿# V2rayX
 
+## About
+V2rayX is a Windows desktop client for managing and running Xray with a simple GUI.
+It supports profile management, subscriptions, system proxy control, ping/speed tests, and tunnel mode.
+
+- Tech stack: Python + PySide6
+- Runtime: Xray core (bundled in release package)
+- Target platform: Windows 10/11 (64-bit)
+
 ## فارسی
 <div dir="rtl" align="right">
 
@@ -58,4 +66,5 @@ It provides profile management, subscription updates, `Ping/Speed` tests, system
 ---
 
 ## License
-MIT
+This project is licensed under the MIT License.
+See [`LICENSE`](LICENSE) for full license text.
