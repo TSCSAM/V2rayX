@@ -1,5 +1,7 @@
 ﻿﻿# V2rayX
 
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-@digitkeey-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/digitkeey)
+
 ## About
 V2rayX is a Windows desktop client for managing and running Xray with a simple GUI.
 It supports profile management, subscriptions, system proxy control, ping/speed tests, and tunnel mode.
